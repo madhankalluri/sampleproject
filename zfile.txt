@@ -2,8 +2,4 @@ sl.no  reg   model  price
 01     ind   a1     1000
 02     ind   s1     1200
 03     cna   g1     1000
-<<<<<<< HEAD:zfile.txt
-=======
 04     usa   i5     1199
-05    uae[D[D[D   [D[Duae   z1     1099
->>>>>>> 3fd37d8 (modified zfile):zfile
